@@ -1,0 +1,19 @@
+$colorUno: #F9ED69;
+$colorDos: #F08A5D;
+$colorTres: #B83B5E;
+$colorCuatro: #6A2C70;
+
+header {
+    height: 200px;
+    background: $colorDos;
+}
+
+section {
+    background: $colorTres;
+    height: 200px;
+}
+
+footer {
+    height: 200px;
+    background: $colorCuatro    
+}

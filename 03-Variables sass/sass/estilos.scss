@@ -1,0 +1,23 @@
+$colorUno: #F9ED69;
+$colorDos: #F08A5D;
+$colorTres: #B83B5E;
+$colorCuatrp: #6A2C70;
+
+section {
+    background: $colorUno;
+    h1 {
+        background: $colorDos;
+    }
+    h2 {
+        background: $colorTres;
+    }
+    p {
+        background: $colorCuatrp;
+    }
+}
+
+footer {
+    p {
+        background: $colorUno;
+    }
+}
