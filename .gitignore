@@ -1,2 +1,2 @@
-*.sass-cache
-*bootstrap-download/*
+./*/.sass-cache
+./*/bootstrap-download/*
